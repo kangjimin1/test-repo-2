@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//line2 수정 본계정
 int main()
 {
 	int n = 5;
